@@ -62,5 +62,5 @@ You can view the project by opening the `index.html` file in any modern web brow
 
 ```bash
 https://github.com/rmasif012/Lab_Assignment_HCI
-cd dah-canteen
+cd HTML
 open index.html
